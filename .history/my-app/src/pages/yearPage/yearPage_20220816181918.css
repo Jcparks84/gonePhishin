@@ -1,0 +1,13 @@
+
+.container {
+    display: flex;
+}
+
+li {
+    text-align: left;
+    font-size: px;
+}
+
+ul {
+    list-style-type: none;
+}

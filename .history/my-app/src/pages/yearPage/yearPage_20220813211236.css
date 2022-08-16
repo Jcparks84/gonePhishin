@@ -1,0 +1,11 @@
+.Page_header__12gmr {
+    width: 100%;
+    background: linear-gradient(180deg,#31cd7a 0,#33b36f 44%,#329862);
+    color: #fff;
+    position: fixed;
+    height: 43px;
+    padding: 0.05rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+
+.container {
+    border-bottom: 1px solid #D1D1D1;
+    color: #8C4600;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;}
+
+body {
+    margin: 0px;
+    padding: 0px;
+ }
+ 
+
+li {
+    text-align: left;
+    font-size: 25px;
+    border-bottom:solid black 1px;
+    width: 1%;    margin-left:-10px;
+}
+
+ul {
+    list-style-type: none;
+}

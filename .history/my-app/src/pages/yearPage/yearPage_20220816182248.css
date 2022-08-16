@@ -1,0 +1,22 @@
+
+.container {
+    display: flex;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+ }
+ 
+
+li {
+    text-align: left;
+    font-size: 25px;
+    border-top:solid black 1px;
+    width:103%;
+    margin-left:-10px;
+}
+
+ul {
+    list-style-type: none;
+}
