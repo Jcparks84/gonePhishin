@@ -38,7 +38,8 @@ function YearPage(){
     return(
         <div className='container'>
             {console.log(years.data)}
-             <p>{years.data[29]}</p>
+            <p>{years.data[]}</p>
+            <p>{years.data[29]}</p>
             <p>{years.data[28]}</p>
             <p>{years.data[27]}</p>
             <p>{years.data[26]}</p>

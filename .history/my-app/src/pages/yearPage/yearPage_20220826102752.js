@@ -38,37 +38,34 @@ function YearPage(){
     return(
         <div className='container'>
             {console.log(years.data)}
-             <p>{years.data[29]}</p>
-            <p>{years.data[28]}</p>
-            <p>{years.data[27]}</p>
-            <p>{years.data[26]}</p>
-            <p>{years.data[25]}</p>
-            <p>{years.data[24]}</p>
-            <p>{years.data[23]}</p>
-            <p>{years.data[22]}</p>
-            <p>{years.data[21]}</p>
-            <p>{years.data[20]}</p>
-            <p>{years.data[19]}</p>
-            <p>{years.data[18]}</p>
-            <p>{years.data[17]}</p>
-            <p>{years.data[16]}</p>
-            <p>{years.data[15]}</p>
-            <p>{years.data[14]}</p>
-            <p>{years.data[13]}</p>
-            <p>{years.data[12]}</p>
-            <p>{years.data[11]}</p>
-            <p>{years.data[10]}</p>
-            <p>{years.data[9]}</p>
-            <p>{years.data[8]}</p>
-            <p>{years.data[7]}</p>
-            <p>{years.data[6]}</p>
-            <p>{years.data[5]}</p>
-            <p>{years.data[4]}</p>
-            <p>{years.data[3]}</p>
-            <p>{years.data[2]}</p>
-            <p>{years.data[1]}</p>
             <p>{years.data[0]}</p>
-
+            <p>{years.data[1]}</p>
+            <p>{years.data[2]}</p>
+            <p>{years.data[3]}</p>
+            <p>{years.data[4]}</p>
+            <p>{years.data[5]}</p>
+            <p>{years.data[6]}</p>
+            <p>{years.data[7]}</p>
+            <p>{years.data[8]}</p>
+            <p>{years.data[9]}</p>
+            <p>{years.data[10]}</p>
+            <p>{years.data[11]}</p>
+            <p>{years.data[12]}</p>
+            <p>{years.data[13]}</p>
+            <p>{years.data[14]}</p>
+            <p>{years.data[15]}</p>
+            <p>{years.data[16]}</p>
+            <p>{years.data[17]}</p>
+            <p>{years.data[18]}</p>
+            <p>{years.data[19]}</p>
+            <p>{years.data[20]}</p>
+            <p>{years.data[0]}</p>
+            <p>{years.data[0]}</p>
+            <p>{years.data[0]}</p>
+            <p>{years.data[0]}</p>
+            <p>{years.data[0]}</p>
+            <p>{years.data[0]}</p>
+            <p>{years.data[0]}</p>
 
 
         </div>
